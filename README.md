@@ -113,7 +113,6 @@ De l'infrastructure réseau aux applications sur mesure, en passant par la sécu
 | ✉️ **Email** | [infos@isittci.com](mailto:infos@isittci.com) |
 | 📞 **Téléphone principal** | [+225 27 22 55 44 99](tel:+2252722554499) |
 | 📞 **Téléphone secondaire** | [+225 01 43 84 85 94](tel:+2250143848594) |
-| 📌 **Position GPS** | [5.3709, -3.9555](https://www.google.com/maps?q=5.3709,-3.9555) |
 
 <div align="center">
   <a href="https://www.google.com/maps?q=5.3709,-3.9555" target="_blank">
