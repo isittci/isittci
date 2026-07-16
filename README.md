@@ -6,9 +6,9 @@
 
 **Votre partenaire de confiance**
 
-[![Website](https://img.shields.io/badge/🌍_Site_Web-Visiter-2563EB?style=for-the-badge)](https://isittci.com)
-[![Contact](https://img.shields.io/badge/✉️_Contact-Nous_écrire-0EA5E9?style=for-the-badge)](#-contact)
-[![Localisation](https://img.shields.io/badge/📍_Localisation-Côte_d'Ivoire-F97316?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/🌍_Site_Web-isittci.com-2563EB?style=for-the-badge)](https://www.isittci.com)
+[![Contact](https://img.shields.io/badge/✉️_Contact-infos@isittci.com-0EA5E9?style=for-the-badge)](mailto:infos@isittci.com)
+[![Localisation](https://img.shields.io/badge/📍_Localisation-Abidjan,_Côte_d'Ivoire-F97316?style=for-the-badge)](https://www.google.com/maps?q=5.3709,-3.9555)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isitt&color=2563EB&style=flat-square&label=Vues+du+profil)
 
@@ -73,6 +73,8 @@ De l'infrastructure réseau aux applications sur mesure, en passant par la sécu
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -95,11 +97,23 @@ De l'infrastructure réseau aux applications sur mesure, en passant par la sécu
 
 **Envie de démarrer un projet avec nous ?**
 
-[![Email](https://img.shields.io/badge/Email-support@isittci.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@isittci.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ISITT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Nous_écrire-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-infos@isittci.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infos@isittci.com)
+[![Site Web](https://img.shields.io/badge/Site_Web-www.isittci.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.isittci.com)
+[![Téléphone](https://img.shields.io/badge/Téléphone-+225_27_22_55_44_99-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2252722554499)
 
 </div>
+
+### 📍 Siège social
+
+**Riviera Palmeraie** — entre le carrefour Guiraud et la rue ministre, Abidjan, Côte d'Ivoire
+
+| | |
+|---|---|
+| 🌍 **Site web** | [www.isittci.com](https://www.isittci.com) |
+| ✉️ **Email** | [infos@isittci.com](mailto:infos@isittci.com) |
+| 📞 **Téléphone principal** | [+225 27 22 55 44 99](tel:+2252722554499) |
+| 📞 **Téléphone secondaire** | [+225 01 43 84 85 94](tel:+2250143848594) |
+| 📌 **Position GPS** | [5.3709, -3.9555](https://www.google.com/maps?q=5.3709,-3.9555) |
 
 ---
 
