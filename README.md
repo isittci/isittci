@@ -115,6 +115,14 @@ De l'infrastructure réseau aux applications sur mesure, en passant par la sécu
 | 📞 **Téléphone secondaire** | [+225 01 43 84 85 94](tel:+2250143848594) |
 | 📌 **Position GPS** | [5.3709, -3.9555](https://www.google.com/maps?q=5.3709,-3.9555) |
 
+<div align="center">
+  <a href="https://www.google.com/maps?q=5.3709,-3.9555" target="_blank">
+    <img src="https://staticmap.openstreetmap.de/staticmap.php?center=5.3709,-3.9555&zoom=16&size=650x350&markers=5.3709,-3.9555,red-pushpin" alt="Localisation ISITT - Riviera Palmeraie, Abidjan" width="100%" />
+  </a>
+  <br/>
+  <sub>📍 Cliquez sur la carte pour ouvrir l'itinéraire dans Google Maps</sub>
+</div>
+
 ---
 
 <div align="center">
